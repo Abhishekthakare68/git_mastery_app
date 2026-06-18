@@ -1,3 +1,1 @@
-const greet = require("./lib");
-
-console.log(greet());
+console.log('Login feature added');
