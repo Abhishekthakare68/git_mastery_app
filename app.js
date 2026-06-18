@@ -1,2 +1,3 @@
-console.log("App started");
+const greet = require("./lib");
 
+console.log(greet());
